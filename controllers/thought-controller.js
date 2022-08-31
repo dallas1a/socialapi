@@ -1,5 +1,5 @@
 const { Thought, User } = require('../models');
-
+//thought controller to properly execute routes
 const ThoughtController = {
 
   getAllThought(req, res) {

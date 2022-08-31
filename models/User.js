@@ -1,5 +1,5 @@
 const { Schema, model} = require('mongoose');
-
+//sets parameters for user
 const UserSchema = new Schema(
   {
 

@@ -1,5 +1,5 @@
 const { User, Thought} = require('../models');
-
+//user controller to properly execute routes
 const userController = {
   // create user 
   createUser({ body }, res) {
